@@ -1,0 +1,27 @@
+
+--get number of rows of the dataset 
+
+ -- get the data from jharkhand and bihar
+
+ --get the population of india
+
+ --get the avg growth of all states with district
+
+ --which district is having the highest Area_km2 .Get the district
+
+
+ -- Get the state which is having more than 80% 
+
+ --get the less area_km2 states with district with population 
+
+ --Get the duplicate values are present in the dataset1
+
+ --Get the duplicate values are present in the dataset2
+
+--Get the avg literacy rate of the states
+
+--Get top 1 state which is having good growth and literacy 
+
+ -- Get Avg sex ratio top 5 from dataset1
+
+ --Get the state which is having less population and less Area_km2 with only 3 states
